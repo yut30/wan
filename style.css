@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: url('./bg.jpg');
+}
+
+.logo  {
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 30% auto;
+}
+
+.input {
+  border: 0;
+  width: 200px;
+  height: 35px;
+  display: block;
+  background: #ccc;
+  margin: -35% auto;
+  opacity: .3;
+}
+.btn {
+  display: block;
+  width: 50px;
+  height: 50px;
+  border: 0;
+  border-radius: 50%;
+  background: #c3e1e4;
+  margin: 40% auto;
+}
